@@ -16,7 +16,7 @@ void loop() {
   CheckKeypad();
 }
 
-bool CheckKeypad() { //char *buf, int index) 
+void CheckKeypad() { 
   int value = analogRead(A0);
   for (int i=0; i < 16; i++)
   {
