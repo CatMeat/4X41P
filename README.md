@@ -3,7 +3,7 @@ Read a 4x4 keypad using just one Arduino pin
 
 ![Schematic](4x41p.png?raw=true)
 
-### Compile Information
+### Compile Information Arduino Uno
 
 Sketch uses 1792 bytes (5%) of program storage space. Maximum is 32256 bytes.
 
