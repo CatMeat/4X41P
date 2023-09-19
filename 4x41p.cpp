@@ -19,7 +19,7 @@ void loop() {
     if( abs(value - thresholds[i]) < 5)
     {
       Serial.println(keypad[i]);
-      whi;e (analogRead(A0) < 1000) {delay(100);}
+      while (analogRead(A0) < 1000) {delay(100);}
     }
   }
 }
